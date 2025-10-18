@@ -15,10 +15,10 @@ const dealsData = [
     isDealOfTheDay: true,
   },
   {
-    id: 2,
+    id: 2,  
     name: 'Women\'s High-Waist Skinny Jeans',
     brand: 'Levi\'s',
-    imageUrl: 'https://images.unsplash.com/photo-1604176354204-926873782855?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1738618806206-b2cb6331193c?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8V29tZW4lNUMncyUyMEhpZ2gtV2Fpc3QlMjBTa2lubnklMjBKZWFuc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600',
     originalPrice: 4599,
     salePrice: 2299,
     rating: 4.8,
